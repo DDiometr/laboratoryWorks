@@ -1,3 +1,3 @@
 ﻿  pract13.cpp
-d:\practicalworks\programming\pract13\pract13\pract13.cpp(17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-  pract13.vcxproj -> D:\practicalWorks\programming\pract13\Debug\pract13.exe
+d:\gitinteraction\worksprogramming\practicaltasks\pract13\pract13\pract13.cpp(18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  pract13.vcxproj -> D:\GitInteraction\worksProgramming\practicalTasks\pract13\Debug\pract13.exe
