@@ -141,7 +141,7 @@ res.set_content(allHtml, "text/html");
 int main() {
 	httplib::Server svr;                 
 	svr.Get("/", gen_response);    
-	svr.listen("localhost", 1234); 
+	svr.listen("localhost", 80); 
 }
 ```
 
@@ -149,6 +149,6 @@ int main() {
 
 ![Screenshot_1](Screenshot_2.png)
 
-
+Рис. 1. Заполненный виджет
 
 Вывод: в ходе проведённой лабораторной работы мы закрепили навыки разработки многофайловых приложений, изучили способы работы с API web-сервиса, изучили роцесс сериализации/десериализации данных.
