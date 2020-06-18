@@ -147,7 +147,7 @@ int main() {
 
 Заполненный виджет
 
-![Screenshot_1](Screenshot_2.png)
+![Screenshot_1](Screenshot_23.png)
 
 Рис. 1. Заполненный виджет
 
